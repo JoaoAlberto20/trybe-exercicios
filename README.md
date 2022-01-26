@@ -10,18 +10,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [X ] 1-3: _Unix & Shell- Part 1_
-- [X ] 1-4: _Unix & Shell- Part 2_
+- [x] 1-3: _Unix & Shell- Part 1_
+- [x] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [X ] 2-1: _O que é e para que serve?_
-- [X ] 2-2: _Entendendo os comandos_
-- [X ] 2-3: _Internet - Entendendo como ela funciona_
+- [x] 2-1: _O que é e para que serve?_
+- [x] 2-2: _Entendendo os comandos_
+- [x] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [X ] 3-1: _HTML & CSS - Estruturas de pagina_
+- [x] 3-1: _HTML & CSS - Estruturas de pagina_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML Semântico_
