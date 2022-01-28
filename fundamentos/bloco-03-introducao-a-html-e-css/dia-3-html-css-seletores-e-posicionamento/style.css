@@ -1,0 +1,22 @@
+.img{
+    width: 500px; 
+    position: absolute;
+    z-index: 1;
+  
+}
+.cavalo-marinhos{
+    color: blue;
+}
+.paragrafo{
+
+    background-color: 240, 240, 240;
+    position: absolute;
+    z-index: 2 ;
+    top: 450px;
+}
+
+.text{
+    position: absolute;
+    z-index: 3;
+    top: 800px;
+}
