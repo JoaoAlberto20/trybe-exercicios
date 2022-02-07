@@ -27,14 +27,3 @@
     /* let indexOfTask = tasksList.indexOf('Reunião'); // mostra o qual é o indice do elemento
     console.log(indexOfTask); */
 
-
-    
-
-
-  
-
-
-
-
-
-
