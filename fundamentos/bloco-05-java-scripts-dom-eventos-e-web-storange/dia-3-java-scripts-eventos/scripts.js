@@ -264,6 +264,7 @@ taskSeletor();
 function eventoClickDia () {
 
   let taskSelected = document.getElementsByClassName('task selected');
+  console.log(taskSelected);
   let clicarEmUnDia = document.querySelector('#days');
   let task = document.querySelector('.task');
   let taskColor = task.style.backgroundColor;
