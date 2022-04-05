@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 170px);
+  justify-content: center;
+  align-items: center;
+  grid-gap: 20px
+}
+
+.card {
+  background-color: chartreuse;
+  height: 150px;
+}
