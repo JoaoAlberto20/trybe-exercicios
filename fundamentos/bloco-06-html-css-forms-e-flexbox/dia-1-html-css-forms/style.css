@@ -1,0 +1,23 @@
+#area-de-texto {
+    resize: none;
+}
+body {
+    background-color: #00FF00;
+}
+h1 {
+
+    margin: 0 auto;
+    padding: 1%;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+button {
+    border: 1px solid;
+    height: 30px;
+}
